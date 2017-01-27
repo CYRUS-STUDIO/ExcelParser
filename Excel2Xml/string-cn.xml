@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="login">登录</string>
+<string name="decline">拒绝</string>
+<string name="accept">接听</string>
+<string name="logout">注销</string>
+</resources>

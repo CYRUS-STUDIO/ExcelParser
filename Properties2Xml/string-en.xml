@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="login">Login</string>
+<string name="on_calling">On calling</string>
+<string name="speak_end">Speak end</string>
+<string name="waitting_accepted">Waitting accepted</string>
+<string name="invite_join">Invite join</string>
+<string name="reject">Reject</string>
+<string name="receive">Receive</string>
+<string name="hang_up">Hang up</string>
+</resources>

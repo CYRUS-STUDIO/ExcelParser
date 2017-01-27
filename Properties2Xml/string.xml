@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="login">登录</string>
+<string name="on_calling">接通中</string>
+<string name="speak_end">聊天结束</string>
+<string name="waitting_accepted">正在等待对方接受邀请</string>
+<string name="invite_join">邀请你进行视频聊天</string>
+<string name="reject">拒绝</string>
+<string name="receive">接听</string>
+<string name="hang_up">挂断</string>
+</resources>
